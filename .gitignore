@@ -3,8 +3,6 @@
 *.sln.ide
 *.ps1.log
 *.ps1.error
-*.zip
-*.tar
 .vs/*
 Module.Modified.xml
 
