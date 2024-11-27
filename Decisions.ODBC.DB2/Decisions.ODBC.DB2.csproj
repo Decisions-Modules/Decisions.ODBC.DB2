@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="40-System.IO.Compression.FileSystem" Version="1.0.0.2" />
+      <PackageReference Include="DecisionsSDK" Version="9.3.0" />
+    </ItemGroup>
+
+</Project>

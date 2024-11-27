@@ -1,0 +1,19 @@
+{
+	"Resources": {
+		"NoComponents": true,
+		"CoreServicesDlls": ["./Decisions.ODBC.DB2/bin/Debug/net8.0/win-x64/Decisions.ODBC.DB2.dll"],
+		"ReferenceDlls": [],
+		"CliDlls": null,
+		"WebPages": null,
+		"SilverlightDlls": "",
+		"AgentDlls": null,
+		"InstallScript": "",
+		"SqlScripts": null,
+		"ObjectsToImport": [ "./ImportedObjects/*.*" ],
+		"MsSqlScript": null,
+		"CustomImages": []
+	},
+	"Version": "",
+	"ImagePath": "",
+	"Description": ""
+}
