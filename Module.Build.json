@@ -14,6 +14,6 @@
 		"CustomImages": []
 	},
 	"Version": "",
-	"ImagePath": "",
+	"ImagePath": "./image.png",
 	"Description": ""
 }
