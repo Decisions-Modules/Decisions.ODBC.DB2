@@ -15,5 +15,5 @@
 	},
 	"Version": "",
 	"ImagePath": "./image.png",
-	"Description": ""
+	"Description": "This module installs the necessary components for creating ODBC integrations for IBM DB2 database instances."
 }
